@@ -6,3 +6,5 @@ Approaches used : Greedy , Divide and Conquer and  Dynamic Programming
 2. Strassen’s matrix multiplication algorithm: time complexity O(N ^ 2.8074)
 
 3. Implementation of the tromino tiling algorithm using Divide and Conquer with time complexity O(n ^ 2 ).
+
+4. Dijkstra’s shortest path algorithm
